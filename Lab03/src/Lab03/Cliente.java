@@ -1,8 +1,6 @@
 package Lab03;
 import java.util.ArrayList;
 
-// get/set lista de veiculos, construtor, to string
-
 public class Cliente 
 {
     private String nome;
